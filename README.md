@@ -1,6 +1,6 @@
 # satellite_machine_learning
 
-### Machine learning applications with satellite data (optical, radar)
+### Machine learning algorithms with satellite data (optical, radar)
 
 This repo contains real-life examples of machine learning applications (unsupervised and supervised learning) using satellite raster data.
 
